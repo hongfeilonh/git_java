@@ -11,6 +11,10 @@ public class Class1 {
 		System.out.println("the 003 ");
 		System.out.println("the 003");
 		System.out.println("the 003");
+		
+		System.out.println("this is DNA001");
+		System.out.println("this is DNA001");
+		System.out.println("this is DNA001");
 
 	}
 
